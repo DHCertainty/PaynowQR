@@ -3,7 +3,7 @@ Singapore Paynow QR generator for node.js and javascript. Works on both browser 
 
 Have any questions or need help to do a custom implementation?
 
-Feel free to drop us an email at hello@thunderquote.com.
+Feel free to drop us an email at partnerships@dhcertainty.com.
 
 ### Demo
 > See it in action here:
@@ -81,7 +81,7 @@ https://github.com/jtaych/PayNow-QR-Javascript
 
 https://github.com/mindmedia/paynow.py
 
-Developed by ThunderQuote (https://www.thunderquote.com)
+Developed by DH Certainty (https://dhcertainty.org)
 
 Was looking around for various ways to implement dynamic SGQR codes for payment over Javascript, however couldn't find any that worked with UEN based payments.
 
